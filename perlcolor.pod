@@ -176,7 +176,7 @@ Have you every installed a Perl module from CPAN?
 The shebang line is what tells the OS the path to Perl.  What is the path to
 your Perl?
 
-        #  #    #  #               !!  !!
+        #  #    #  #               !!!!!!
         #  #    #  #               !!  !!
         #  #    #  #               !!  !!
     #####  ######  #####           !!  !!
@@ -185,12 +185,12 @@ your Perl?
         #  #    #  #               !!  !!
         #  #    #  #               !!  !!
         #  #    #  #               !!  !!
-    #####  ######  #####           !!  !!
+    #####  ######  #####           !!!!!!
                                      
     #####  ######  #####              
+        #  #    #  #               !!!!!!
         #  #    #  #               !!  !!
-        #  #    #  #               !!  !!
-        #  #    #  #               !!  !!
+        #  #    #  #               !!!!!!
 
 =head1 TODO
 
