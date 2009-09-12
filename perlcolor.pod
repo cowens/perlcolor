@@ -1,0 +1,205 @@
+# vi: ts=4 sw=4 ht=4 et textwidth=76 :
+
+=head1 NAME
+
+perlcolor - coloring book for new perlers
+
+=head1 Images
+
+=head2 Camels and Llamas
+
+Camels in connection with Perl are a trademark of O'Reilly Media.  O'Reilly
+publishes many of the most important Perl books such as Programming Perl (aka
+the Camel) and Learning Perl (aka the Llama).  Have you read them?
+
+               _
+           .--' |
+          /___^ |     .--.
+              ) |    /    \
+             /  |  /`      '.
+            |   '-'    /     \
+            \         |      |\
+             \    /   \      /\|
+              \  /'----`\   /
+               ||        \ |
+               (|         (|
+               ||         ||
+       jgs    /_(        /_(
+
+            _    _
+           ( \__//) 
+           .'     )
+        __/b d  .  )
+       (_Y_`,     .)
+        `--'-,-'  )
+             (.  )
+             (   )
+            (   )
+           ( . )         .---.
+          (    )        (     )
+          (   . )      (  .    )
+          (      )    (      .  ),
+          ( .     `"'`  .       `)\
+           (      .              .)\
+           ((  .      .   (   .   )\\
+           ((       .    (        ) \\
+            ((     )     _( .   . )  \\
+            ( ( .   )"'"`(.(     )   ( ;
+            ( (    )      ( ( . )     \'
+             |~(  )        |~(  )
+             | ||~|        | ||~|
+        jgs  | || |        | || |    
+            _| || |       _| || |
+           /___(| |      /___(| |
+              /___(         /___(
+
+=head2 Monkeys
+
+In the end we are all code monkeys.  Code, code monkeys, code!
+
+                             .="=.
+                           _/.-.-.\_     _
+                          ( ( o o ) )    ))
+                           |/  "  \|    //
+           .-------.        \'---'/    //
+          _|~~ ~~  |_       /`"""`\\  ((
+        =(_|_______|_)=    / /_,_\ \\  \\
+          |:::::::::|      \_\\_'__/ \  ))
+          |:::::::[]|       /`  /`~\  |//
+          |o=======.|      /   /    \  /
+     jgs  `"""""""""`  ,--`,--'\/\    /
+                        '-- "--'  '--'
+
+=head2 Butterflies
+
+Camelia is a butterfly.  She is the Perl 6 mascot.  Can you find the hidden
+P6?
+
+           _                           _
+          / `._                     _.' \
+         ( @ : `.                 .' : @ )
+          \  `.  `.  ._     _.  .'  .'  /
+           \;' P.  `.  \   /  .'  6' `;/
+            \`.  `.  \  \_/  /  .'  .'/
+             ) :-._`. \ (:) / .'_.-: (
+             (`.....,`.\/:\/.',.....')
+              >------._|:::|_.------<
+             / .'._>_.-|:::|-._<_.'. \
+             |o _.-'_.-^|:|^-._`-._ o|
+             |`'   ;_.-'|:|`-._;   `'|
+        jgs  ".o_.-' ;."|:|".; `-._o."   
+               ".__."   \:/   ".__."
+                         ^
+=head2 Bugs
+
+Bugs are errors in code.  Sometimes the bug is in Perl, but most of the time
+the bug is your code.  If you think the bug is in someone else's code, you
+should report it to them.  CPAN has a link for reporting bugs on each
+module's page.  Have you ever found a bug?
+
+          ,_      _,
+            '.__.'
+       '-,   (__)   ,-'
+         '._ .::. _.'
+           _'(^^)'_
+        _,` `>\/<` `,_
+       `  ,-` )( `-,  `
+          |  /==\  |
+        ,-'  |=-|  '-,
+             )-=(
+    jgs      \__/
+
+
+
+=head2 Penguins
+
+This is Tux.  He is the Linux mascot.  Linux is an important platform for
+Perl.  Linux comes in many flavors: Redhat, Ubuntu, SUSE, and many others.
+Do you run Linux?
+                  ___
+               ,-'   '-.
+              /  _   _  \
+              | (o)_(o) |
+              \ .-""-.  /
+              //`._.-'`\\
+             //   :    ; \
+            //. - '' -.|  |
+           /:    :     |  |
+          | |   :     ,/  /,
+    jgs  _;'`-, '     |`.-' `\
+        )     `\.___./;     .'
+        '.__    )----'\__.-'
+            `""`
+
+=head2 Daemons
+
+This is the BSD Daemon.  His name is Beastie.  BSD is an important platform
+for Perl.  FreeBSD, NetBSD, OS X, and others are all variants of BSD.  Do
+you run a BSD variant?  
+
+                    ,        ,         
+                   /(        )`        
+                   \ \___   / |        
+                   /- _  `-/  '        
+                  (/\/ \ \   /\        
+                  / /   | `    \       
+                  O O   ) /    |       
+                  `-^--'`<     '       
+                 (_.)  _  )   /        
+                  `.___/`    /         
+                    `-----' /          
+       <----.     __ / __   \          
+       <----|====O)))==) \) /====      
+       <----'    `--' `.__,' \         
+                    |        |         
+                     \       /       /\
+                ______( (_  / \______/ 
+              ,'  ,-----'   |          
+              `--{__________)  
+
+=head2 Strawberries
+
+Strawberry Perl is a version of Perl for Microsoft Windows.  It comes with
+its own build environment to make installing Perl modules from CPAN easy.
+Have you every installed a Perl module from CPAN?
+           
+          VVVVVVVV 
+        'oOOOOOOOOo'
+        'ooOOOOOOoo'
+         'oooOOooo'        
+          'oooooo'
+           'oooo'
+ 
+
+=head2 Shebang
+
+The shebang line is what tells the OS the path to Perl.  What is the path to
+your Perl?
+
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+    ####    ####    ####           !!  !!
+                                   !!  !!
+    ####    ####    ####           !!  !!
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+    ####    ####    ####           !!  !!
+                                     
+    ####    ####    ####              
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+        #  #    #  #               !!  !!
+
+=head1 TODO
+
+We need a good ASCII art version of Hexley (the Darwin Mascot).
+
+My strawberry is terrible.
+
+=head1 LICENSE
+
+The BSD Daemon appears to be public domain.  The strawberry and the #! are
+released under the same terms as Perl.  The rest of the ASCII art came from
+L<http://www.geocities.com/soho/7373/index.html>.
