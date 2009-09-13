@@ -161,7 +161,7 @@ you run a BSD variant?
 
 Strawberry Perl is a version of Perl for Microsoft Windows.  It comes with
 its own build environment to make installing Perl modules from CPAN easy.
-Have you every installed a Perl module from CPAN?
+Have you ever installed a Perl module from CPAN?
            
           VVVVVVVV 
         'oOOOOOOOOo'
